@@ -2,6 +2,7 @@
 <body>
 
 <h3>Training Portal</h3>
+<!--  THIS IS MY SECOND COMMIT -->
 
 <!--  read the favorite programming langugage cookie -->
 
